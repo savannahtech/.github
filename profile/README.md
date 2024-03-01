@@ -27,11 +27,10 @@ https://calendly.com/savannahtech/theriseoftheafricancontinent
 
 Website
 https://savannahtech.io <br>
-Industry
-Software Development
-Company size
-11-50 employees
-12 associated members LinkedIn members who’ve listed SavannahTech🌾💻 as their current workplace on their profile.
-Founded
-2020
+Industry <br>
+Software Development <br>
+Company size <br>
+11-50 employees <br>
+12 associated members LinkedIn members who’ve listed SavannahTech🌾💻 as their current workplace on their profile. <br>
+Founded in 2020
 
